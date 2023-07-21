@@ -1,0 +1,488 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Helvetica', sans-serif;
+    scroll-behavior: smooth;
+}
+
+body {
+
+
+    background: url("Icons_images/servicesbuild.png") no-repeat;
+
+}
+
+#s1_plumber {
+
+
+    text-align: left;
+
+
+}
+
+#s1_plumber .ratingtop {
+    padding-bottom: 20px;
+    margin-left: 20px;
+    font-weight: 100;
+}
+
+#s1_plumber .pro-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-left: 50px;
+
+
+}
+
+#s1_plumber .pro {
+    text-align: center;
+    width: 200px;
+    background: #fff;
+    min-width: 50px;
+    border-radius: 5px;
+    border: 1px solid #d3d3d3;
+    transition: box-shadow .3s;
+}
+
+#s1_plumber .pro:hover {
+
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, .3);
+
+}
+
+#s1_plumber .info {
+
+    margin-top: 30px;
+    font-weight: 500;
+    color: #333;
+    font-size: .8em;
+    margin-left: 10px;
+}
+
+#s1_plumber hr {
+    height: 3px;
+    background-color: #d3d3d3;
+    color: #d3d3d3;
+    border: none;
+}
+
+#s1_plumber .pro img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    ;
+    width: 170px;
+    height: auto;
+    border-radius: 5px;
+}
+
+#s1_plumber .pro .call {
+
+    width: 80px;
+    height: 30px;
+    transition: 0.3s;
+    line-height: 25px;
+    text-decoration: none;
+    border-radius: 8px;
+    background-color: #fff;
+    color: #333;
+    border: 2px solid #d3d3d3;
+    font-weight: 500;
+    padding: -5px 12px;
+    transform: translateY(-75px);
+    cursor: pointer;
+}
+
+#s1_plumber .pro .call:hover {
+    background: #C1E1C1;
+    color: #000;
+    border: none;
+
+}
+
+#s1_plumber h3 {
+    font-size: em;
+    transform: translateY(10px);
+    text-decoration: none;
+
+}
+
+#s1_plumber h6 {
+    transform: translateY(15px);
+    font-size: .7em;
+    font-weight: 500;
+    color: #3d3d3d;
+    text-decoration: none;
+}
+
+.main_bg .pro .rate {
+    color: #000;
+}
+
+.main_bg {
+    margin: 100px;
+    text-align: left;
+}
+
+.main_bg h1 {
+    margin-left: 10px;
+    font-size: 2.5em;
+    padding-bottom: 20px;
+    text-decoration: none;
+
+}
+
+.main_bg h3 {
+    font-weight: 500;
+}
+
+.main_bg h4 {
+    text-decoration: none;
+    font-weight: 600;
+    color: #000;
+    font-size: 1.75em;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+}
+
+.main_bg h5 {
+    font-weight: 500;
+    margin-top: 20px;
+    margin-bottom: -20px;
+}
+
+
+
+
+/*     THIS IS FOR ELECTRICIAN  */
+
+#s1_Electrician {
+
+
+    text-align: left;
+
+
+}
+
+#s1_Electrician .ratingtop {
+    padding-bottom: 20px;
+    margin-left: 20px;
+    font-weight: 100;
+}
+
+#s1_Electrician .pro-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-left: 50px;
+}
+
+#s1_Electrician .pro {
+    text-align: center;
+    width: 200px;
+    background: #fff;
+    min-width: 50px;
+    border-radius: 5px;
+    border: 1px solid #d3d3d3;
+    transition: box-shadow .3s;
+}
+
+#s1_Electrician .pro:hover {
+
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, .3);
+
+}
+
+#s1_Electrician .info {
+
+    margin-top: 30px;
+    font-weight: 500;
+    color: #333;
+    font-size: .8em;
+    margin-left: 10px;
+}
+
+#s1_Electrician hr {
+    height: 3px;
+    background-color: #d3d3d3;
+    color: #d3d3d3;
+    border: none;
+}
+
+#s1_Electrician .pro img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    ;
+    width: 170px;
+    height: auto;
+    border-radius: 5px;
+}
+
+#s1_Electrician .pro .call {
+
+    width: 80px;
+    height: 30px;
+    transition: 0.3s;
+    line-height: 25px;
+    text-decoration: none;
+    border-radius: 8px;
+    background-color: #fff;
+    color: #333;
+    border: 2px solid #d3d3d3;
+    font-weight: 500;
+    padding: -5px 12px;
+    transform: translateY(-75px);
+    cursor: pointer;
+}
+
+#s1_Electrician .pro .call:hover {
+    background: #C1E1C1;
+    color: #000;
+    border: none;
+
+}
+
+#s1_Electrician h3 {
+    font-size: em;
+    transform: translateY(10px);
+    text-decoration: none;
+
+}
+
+#s1_Electrician h6 {
+    transform: translateY(15px);
+    font-size: .7em;
+    font-weight: 500;
+    color: #3d3d3d;
+    text-decoration: none;
+}
+
+/*  END */
+
+
+/* THIS IS FOR CLEANING */
+
+#s1_Cleaning {
+
+
+    text-align: left;
+
+
+}
+
+#s1_Cleaning .ratingtop {
+    padding-bottom: 20px;
+    margin-left: 20px;
+    font-weight: 100;
+}
+
+#s1_Cleaning .pro-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-left: 50px;
+}
+
+#s1_Cleaning .pro {
+    text-align: center;
+    width: 200px;
+    background: #fff;
+    min-width: 50px;
+    border-radius: 5px;
+    border: 1px solid #d3d3d3;
+    transition: box-shadow .3s;
+}
+
+#s1_Cleaning .pro:hover {
+
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, .3);
+
+}
+
+#s1_Cleaning .info {
+
+    margin-top: 30px;
+    font-weight: 500;
+    color: #333;
+    font-size: .8em;
+    margin-left: 10px;
+}
+
+#s1_Cleaning hr {
+    height: 3px;
+    background-color: #d3d3d3;
+    color: #d3d3d3;
+    border: none;
+}
+
+#s1_Cleaning .pro img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    ;
+    width: 170px;
+    height: auto;
+    border-radius: 5px;
+}
+
+#s1_Cleaning .pro .call {
+
+    width: 80px;
+    height: 30px;
+    transition: 0.3s;
+    line-height: 25px;
+    text-decoration: none;
+    border-radius: 8px;
+    background-color: #fff;
+    color: #333;
+    border: 2px solid #d3d3d3;
+    font-weight: 500;
+    padding: -5px 12px;
+    transform: translateY(-75px);
+    cursor: pointer;
+}
+
+#s1_Cleaning .pro .call:hover {
+    background: #C1E1C1;
+    color: #000;
+    border: none;
+
+}
+
+#s1_Cleaning h3 {
+    font-size: em;
+    transform: translateY(10px);
+    text-decoration: none;
+
+}
+
+#s1_Cleaning h6 {
+    transform: translateY(15px);
+    font-size: .7em;
+    font-weight: 500;
+    color: #3d3d3d;
+    text-decoration: none;
+}
+
+
+
+/*END  */
+
+
+/* THIS IS FOR SALON */
+
+#s1_Salon {
+
+
+    text-align: left;
+
+
+}
+
+#s1_Salon .ratingtop {
+    padding-bottom: 20px;
+    margin-left: 20px;
+    font-weight: 100;
+}
+
+#s1_Salon .pro-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-left: 50px;
+}
+
+#s1_Salon .pro {
+    text-align: center;
+    width: 200px;
+    background: #fff;
+    min-width: 50px;
+    border-radius: 5px;
+    border: 1px solid #d3d3d3;
+    transition: box-shadow .3s;
+}
+
+#s1_Salon .pro:hover {
+
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, .3);
+
+}
+
+#s1_Salon .info {
+
+    margin-top: 30px;
+    font-weight: 500;
+    color: #333;
+    font-size: .8em;
+    margin-left: 10px;
+}
+
+#s1_Salon hr {
+    height: 3px;
+    background-color: #d3d3d3;
+    color: #d3d3d3;
+    border: none;
+}
+
+#s1_Salon .pro img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    ;
+    width: 170px;
+    height: auto;
+    border-radius: 5px;
+}
+
+#s1_Salon .pro .call {
+
+    width: 80px;
+    height: 30px;
+    transition: 0.3s;
+    line-height: 25px;
+    text-decoration: none;
+    border-radius: 8px;
+    background-color: #fff;
+    color: #333;
+    border: 2px solid #d3d3d3;
+    font-weight: 500;
+    padding: -5px 12px;
+    transform: translateY(-75px);
+    cursor: pointer;
+}
+
+#s1_Salon .pro .call:hover {
+    background: #C1E1C1;
+    color: #000;
+    border: none;
+
+}
+
+#s1_Salon h3 {
+    font-size: em;
+    transform: translateY(10px);
+    text-decoration: none;
+
+}
+
+#s1_Salon h6 {
+    transform: translateY(15px);
+    font-size: .7em;
+    font-weight: 500;
+    color: #3d3d3d;
+    text-decoration: none;
+}
+
+/* END */
+
+
+/* THIS IS FOR SALON */
+
+
+
+
+/* END */

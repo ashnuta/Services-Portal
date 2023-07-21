@@ -1,0 +1,193 @@
+* {
+  scroll-behavior: smooth;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Helvetics, sans-serif;
+}
+
+.main {
+  z-index: 99;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url(Icons_images/aboutbuilding.png) no-repeat;
+}
+
+.main h1 {
+
+  position: absolute;
+  top: 20%;
+  left: 20%;
+  font-size: 2.5em;
+  color: #000;
+
+
+
+}
+
+.profile-card {
+  position: relative;
+  width: 220px;
+  height: 220px;
+  background: #fff;
+  padding: 30px;
+  border-radius: 11px;
+  box-shadow: 0 0 22px #3336;
+  transition: .3s;
+  margin: 0px 25px;
+  transform: translateY(70px);
+}
+
+.profile-card:hover {
+  border-radius: 10px;
+  height: 260px;
+}
+
+.profile-card .img {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transition: .3s;
+  z-index: 99;
+}
+
+.profile-card:hover .img {
+  transform: translateY(-10px);
+}
+
+.img img {
+  width: 100%;
+  border-radius: 15px;
+  box-shadow: 0 0 10px #3336;
+  transition: .3s;
+}
+
+.profile-card:hover img {
+  border-radius: 10px;
+}
+
+.caption {
+  text-align: center;
+  transform: translateY(-25px);
+  opacity: 0;
+  transition: .3s;
+}
+
+.profile-card:hover .caption {
+  opacity: 1;
+}
+
+.caption h3 {
+  font-size: 15px;
+}
+
+.caption p {
+  font-size: 12px;
+  color: #333;
+  margin: 2px 0 9px 0;
+}
+
+.caption .social-links a {
+  color: #333;
+  margin-right: 8px;
+  font-size: 12px;
+  transition: .3s;
+}
+
+.social-links a:hover {
+  color: #d3d3d3;
+}
+
+.about {
+  z-index: 1000;
+}
+
+.about h2 {
+
+  top: 130%;
+  right: 18%;
+  left: 20%;
+  font-size: 2.5em;
+  color: #000;
+
+  position: absolute;
+
+}
+
+.about #Mid {
+
+  left: 18%;
+  right: 18%;
+  top: 150%;
+  font-size: 1em;
+  color: #000;
+  position: absolute;
+
+}
+
+.contact button {
+
+
+
+
+  top: 250%;
+  width: 30%;
+
+
+  bottom: 30%;
+  font-size: 2.3em;
+  color: #000;
+  width: 120px;
+  height: 45px;
+  background: transparent;
+  border: 1px solid #3F2B2F;
+  outline: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1.1em;
+  color: #333;
+  font-weight: 500;
+  margin-left: 680px;
+  margin-top: 800px;
+  margin-bottom: 50px;
+  transition: .2s;
+}
+
+.contact button:hover {
+
+  background: #000;
+  color: #fff;
+  border: none;
+
+}
+
+.main .down {
+  transform: translateY(70px);
+  margin-left: 20px;
+}
+
+.about .up {
+
+  margin-left: 1300px;
+  margin-top: 450px;
+  margin-bottom: -450px;
+}
+
+.about .img {
+
+  margin-top: -1200px;
+  margin-left: 1250px;
+}
+
+
+h6 {
+  margin-top: -30px;
+  margin-bottom: -30px;
+  font-size: .7em;
+  font-weight: 400;
+  padding-left: 275px;
+  padding-bottom: 0;
+}

@@ -1,0 +1,36 @@
+For Project Service/Product Request Provide aNd Manage
+
+
+Landing Page- Login Page.(visually appealing - colour will decide mutually 
+@Bharat Tyagi you pitch some good colours and in case u need help regarding 
+the design part then we can sit together any time any day and finalize this.
+
+For Project Service/Product Request Provide aNd Manage
+
+
+
+After Login Successfully.
+
+Something like this should be top pe our Website banner along with Details like
+Costumer help support and mail id and social handles+ usme top right corner mein
+profile ka option and use we have to build similar page ss this pic- not exactly
+this(hope u"ll get that idea) like km details add kr ke bhi we can do it.
+
+
+Also top right corner PE ek notification icon. Actually sbse upar ek top banner 
+rahega then uske neeche wale strip mein we have to add icons like profile, 
+notification search bar, filter button, isme i am doubting one thing like not 
+exactly finalized the idea as to how to include the icon in function like Request
+a Service/Manage a Service/Request a Product/Provide a Service/Product like isko
+alag se dialog box mein include karein ya filter option mein include krein we
+have to figure out that what will work for us
+
+
+After Searching For Product/Service similar drop down list aayegi and user can 
+finalize usko kya final krna hai like we will provide the details like email, 
+contact number and apply/request/purchase accordingly woh product ya service
+ hai and jo post krega service ya product woh details toh put up krega hi toh 
+ woh user ko automatically show hongi
+
+
+https://youtu.be/OEaobqq7Hq8
